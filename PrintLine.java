@@ -6,3 +6,6 @@ class PrintLine
 		System.out.println(12);
 	}
 }
+
+
+
